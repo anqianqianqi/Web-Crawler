@@ -1,4 +1,4 @@
-#author: Anqi Luo
+#@Author: Anqi Luo
 from bs4 import BeautifulSoup as BS
 import requests
 import pandas as pd
